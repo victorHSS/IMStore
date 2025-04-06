@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="botoesVenda.svg">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4683">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4685" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4687" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4689" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset4691" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4693" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4695">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4697" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4699" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4701" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset4703" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4705" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4707">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4709" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4711" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4713" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="offset"
+         id="feOffset4715" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4717" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="321.26947"
+     inkscape:cy="755.83564"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#800080;stroke:none;stroke-width:1.19373369;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4138"
+       width="220.80627"
+       height="98.806267"
+       x="19.59688"
+       y="79.673332"
+       ry="7.6242895"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27547073px;line-height:125%;font-family:'36 days ago Thick BRK';-inkscape-font-specification:'36 days ago Thick BRK, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.566349"
+       y="142.07693"
+       id="text4140"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0121156,0.98802944)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="41.566349"
+         y="142.07693"
+         id="tspan4144">Devolver Item</tspan></text>
+    <rect
+       style="fill:#d40000;stroke:none;stroke-width:1.19373369;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4138-9"
+       width="220.80627"
+       height="98.806267"
+       x="18.882578"
+       y="230.10193"
+       ry="7.6242895"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27547073px;line-height:125%;font-family:'36 days ago Thick BRK';-inkscape-font-specification:'36 days ago Thick BRK, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.980303"
+       y="294.32812"
+       id="text4140-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0121156,0.98802944)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="30.980303"
+         y="294.32812"
+         id="tspan4144-7">Cancelar Venda</tspan></text>
+    <rect
+       style="fill:#008000;stroke:none;stroke-width:1.19373369;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4138-9-3"
+       width="220.80627"
+       height="98.806267"
+       x="18.168299"
+       y="384.38763"
+       ry="7.6242895"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27547073px;line-height:125%;font-family:'36 days ago Thick BRK';-inkscape-font-specification:'36 days ago Thick BRK, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.322435"
+       y="450.48306"
+       id="text4140-2-6"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0121156,0.98802944)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="26.322435"
+         y="450.48306"
+         id="tspan4144-7-4">Encerrar Venda</tspan></text>
+    <rect
+       style="fill:#800080;stroke:#000000;stroke-width:1.19373369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4683)"
+       id="rect4138-6"
+       width="220.80627"
+       height="98.806267"
+       x="380.31116"
+       y="79.173355"
+       ry="7.6242895"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27547073px;line-height:125%;font-family:'36 days ago Thick BRK';-inkscape-font-specification:'36 days ago Thick BRK, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="397.96265"
+       y="141.57091"
+       id="text4140-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0121156,0.98802944)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="397.96265"
+         y="141.57091"
+         id="tspan4144-8">Devolver Item</tspan></text>
+    <rect
+       style="fill:#d40000;stroke:#000000;stroke-width:1.19373369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4695)"
+       id="rect4138-9-37"
+       width="220.80627"
+       height="98.806267"
+       x="379.59686"
+       y="229.60193"
+       ry="7.6242895"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27547073px;line-height:125%;font-family:'36 days ago Thick BRK';-inkscape-font-specification:'36 days ago Thick BRK, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="387.37662"
+       y="293.82208"
+       id="text4140-2-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0121156,0.98802944)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="387.37662"
+         y="293.82208"
+         id="tspan4144-7-2">Cancelar Venda</tspan></text>
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:1.19373369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4707)"
+       id="rect4138-9-3-1"
+       width="220.80627"
+       height="98.806267"
+       x="378.88257"
+       y="383.88766"
+       ry="7.6242895"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.27547073px;line-height:125%;font-family:'36 days ago Thick BRK';-inkscape-font-specification:'36 days ago Thick BRK, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="382.71875"
+       y="449.97702"
+       id="text4140-2-6-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0121156,0.98802944)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="382.71875"
+         y="449.97702"
+         id="tspan4144-7-4-5">Encerrar Venda</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+********************************************************************************
+*                                   IM Store                                   *
+********************************************************************************
+Data da compra: 24/04/2023 10h11
+Cliente: Victor André Pinho de Oliveira
+
+ITEM  DESCRIÇÃO                          TAM  QTDE  PREÇO UNT (R$)  PREÇO T (R$)
+   1  Produto291                         M       1          150.00        150.00
+   2   *** TROCA *** Produto277          M       1         -150.00       -150.00
+--------------------------------------------------------------------------------
+                                                            Subtotal R$     0.00
+                                                            Desconto R$     0.00
+                                                               Total R$     0.00
+Forma de Pagamento: Crediário
