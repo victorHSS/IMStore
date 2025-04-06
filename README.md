@@ -1,10 +1,10 @@
 # IMStore
 Software PDV para pequenos negócios.
 Escrito em Python3 com GTK+3. Janelas desenhas no Glade.
-Conheça o GTK+ em ![https://www.gtk.org/].
-Conheça o Glade em ![https://glade.gnome.org/].
+Conheça o GTK+ em https://www.gtk.org/.
+Conheça o Glade em https://glade.gnome.org/.
 
-## Tela inicial:
+## Tela inicial
 ![image](https://github.com/user-attachments/assets/22568464-5bcd-488a-8e5a-d60efa657da6)
 
 ## Cadastro de Clientes
