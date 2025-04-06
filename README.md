@@ -1,2 +1,2 @@
 # IMStore
-Software PDV para pequenos negócios
+Software PDV para pequenos negócios.
